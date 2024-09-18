@@ -139,11 +139,13 @@
 	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
-			"translation": [-2.75, 3, 3.25],
+			"rotation": [0, -15, 5],
+			"translation": [1.75, 3, 6.5],
 			"scale": [0.55, 0.55, 0.55]
 		},
 		"thirdperson_lefthand": {
-			"translation": [-9.25, 3, 3.25],
+			"rotation": [0, -15, 5],
+			"translation": [-4, 3, 4.75],
 			"scale": [0.55, 0.55, 0.55]
 		},
 		"firstperson_righthand": {
