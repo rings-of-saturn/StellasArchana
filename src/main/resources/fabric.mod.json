@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "stellas_archana",
+  "version": "${version}",
+  "name": "Stellas Archana",
+  "description": "A magic mod!",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/stellas_archana/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "rings_of_saturn.github.io.stellas_archana.client.StellasArchanaClient"
+    ],
+    "main": [
+      "rings_of_saturn.github.io.stellas_archana.StellasArchana"
+    ]
+  },
+  "mixins": [
+    "stellas_archana.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
