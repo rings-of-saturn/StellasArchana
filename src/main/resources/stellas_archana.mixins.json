@@ -6,6 +6,10 @@
   "mixins": [
   ],
   "client": [
+    "ItemRendererAccessor",
+    "ItemRendererMixin",
+    "ModelLoaderMixin",
+    "PlayerRendererMixin"
   ],
   "injectors": {
     "defaultRequire": 1
