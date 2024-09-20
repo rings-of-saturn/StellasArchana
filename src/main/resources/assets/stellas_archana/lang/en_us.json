@@ -1,0 +1,8 @@
+{
+  "stellas_archana.spell.description.wind": "Creates wind that can push entities!",
+  "item.stellas_archana.wind_spell": "Wind",
+  "stellas_archana.spell.description.self": "Applies spell to caster",
+  "item.stellas_archana.self_spell": "Self",
+
+  "item.stellas_archana.spell_book": "Spell Book"
+}
